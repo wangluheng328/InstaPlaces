@@ -4,7 +4,7 @@
 
 https://wesmern.web.app/
 
-**Note that currently this web app is deployed with Heroku, which does not have persistent storage. The static resources such as the avatar images and the photos will be deleted every new 24-hour cycle. It is a Heroku feature which I cannot disable. The fix is to use a third party persistent storage, such as AWS S3, which I am planning to integrate in the near future. For now, you will see most user/places records not rendering images, as they were created before of the 24-hour cycle that you are currently in. However, if you sign up for a new user and upload images, you will see them rendering correclty (until the next 24-hour cycle).**
+** **Note that currently this web app is deployed with Heroku, which does not have persistent storage. The static resources such as the avatar images and the photos will be deleted every new 24-hour cycle. It is a Heroku feature which I cannot disable. The fix is to use a third party persistent storage, such as AWS S3, which I am planning to integrate in the near future. For now, you will see most user/places records not rendering images, as they were created before of the 24-hour cycle that you are currently in. However, if you sign up for a new user and upload images, you will see them rendering correclty (until the next 24-hour cycle).** **
 
 
 ### Introduction
