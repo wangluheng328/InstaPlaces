@@ -15,6 +15,8 @@ This is a Instagram-like photo-sharing web app, designed for users to share thei
 
 This web app is developed with the MERN stack - MongoDB, Express.js, React.js, Node.js. I have previously developed full-stack web apps based on Spring Boot and Vue, and wanted to try different tech stacks so that I have a better understanding of full stack development process.
 
+Deployed frontend with Google Firebase and backend with Heroku.
+
 ### How to use
 
 - Clone the repository to local, which has npm installed
